@@ -6,7 +6,7 @@
 ## Приложение 
 
 
-Проект: `GuildOfHeroes_Izinger` — консольное приложение на C# (.NET 8).  
+Проект: `GuildOfHeroes_Izinger` — консольное приложение на C# (.NET 9).  
 Личный проект («Собственный проект»): **«Библиотека»** — классы `Book` и `Library`.
 
 ## Состав проекта
@@ -33,7 +33,7 @@
 
 ## Запуск
 
-Нужен .NET SDK 8. Если на компьютере установлена другая версия SDK (`dotnet --version`), замените значение `TargetFramework` в `GuildOfHeroes_Izinger.csproj` на свою (например, `net9.0`).
+Нужен .NET SDK 9.
 
 ```bash
 cd GuildOfHeroes_Izinger
@@ -256,7 +256,7 @@ ArgumentOutOfRangeException: индекс Count выходит за границ
 ![2](img/2026-11-25_17-48.png)
 
 
-![3](img/2026-11-25_17-49.png)
+![3](img/2026-11-25_18-08.png)
 
 
 
